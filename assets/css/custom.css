@@ -115,7 +115,7 @@ img{
 section{
     margin: 80px 0px;
 }
-.Boos-header{
+.Section-header{
     text-align: center;
 }
 section h2{
@@ -126,7 +126,4 @@ section h3{
 }
 section p{
     margin: 10px 0px 0px 0px;
-}
-.Who-header{
-    text-align: center;
 }
